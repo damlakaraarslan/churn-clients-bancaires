@@ -69,3 +69,24 @@ Exemples de requêtes :
 - Analyser plus finement les clients avec **3-4 produits** pour comprendre pourquoi ils quittent massivement la banque, et ajuster la politique de cross-sell (éviter la sur‑sollicitation, améliorer la qualité de service).
 - Mettre en place un **suivi dédié des clients à forte valeur** (gros soldes) qui montrent des signaux de churn, via des conseillers premium ou des offres de fidélisation sur mesure.
 
+
+## Visualisations
+
+### Taux de churn par pays
+
+Ce graphique montre que le churn est nettement plus élevé en Allemagne (~32 %) qu'en France et en Espagne (~16 %), ce qui en fait un marché prioritaire pour la rétention.
+
+![Taux de churn par pays](outputs/churn_by_country.png)
+
+### Taux de churn par tranche d'âge
+
+On observe une forte hausse du churn à partir de 40 ans, avec un pic chez les 50–59 ans (plus de 50 %), ce qui met en évidence un segment client critique.
+
+![Taux de churn par tranche d'âge](outputs/churn_by_age_band.png)
+
+### Taux de churn par nombre de produits
+
+Les clients avec un seul produit, et surtout ceux avec 3–4 produits, churnent beaucoup plus que ceux ayant 2 produits, ce qui soulève des questions sur la stratégie de cross‑sell.
+
+![Taux de churn par nombre de produits](outputs/churn_by_products.png)
+
