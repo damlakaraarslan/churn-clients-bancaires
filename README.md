@@ -60,8 +60,6 @@ Exemples de requêtes :
 - Les clients ayant **un seul produit** ou au contraire **3-4 produits** sont bien plus à risque que ceux avec 2 produits, ce qui peut refléter des profils sous-équipés (basse valeur) ou sur-sollicités (insatisfaction).
 - Les **clients inactifs** (`IsActiveMember = 0`) churnent presque **deux fois plus** (26,9 %) que les clients actifs (14,3 %), ce qui en fait un levier majeur pour des campagnes de réactiva
 
-<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/1e84cc26-97a1-4ab2-b66b-9a8ef8932b70" />
-
 
 ## Recommandations business
 
