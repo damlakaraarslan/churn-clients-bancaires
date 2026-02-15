@@ -31,7 +31,7 @@ L'objectif est de répondre à des questions comme :
 
 ## Principales requêtes SQL
 
-Le fichier [`sql/analysis_queries.sql`](sql/analysis_queries.sql) contient l'ensemble des requêtes d'analyse.
+Le fichier [churn_bank_text] contient l'ensemble des requêtes d'analyse.
 
 Exemples de requêtes :
 
