@@ -21,12 +21,14 @@ L'objectif est de répondre à des questions comme :
 
 - **Outils** :
   - SQLite + DB Browser for SQLite pour le stockage et les requêtes SQL.
+  - Excel pour quelques visualisations (barplots
 
 - **Étapes** :
   1. Import du CSV dans une base SQLite et vérifications de base (types, nombre de lignes).
   2. Analyses descriptives : taux de churn global, par pays, par genre. 
   3. Segmentation avancée : tranches d'âge, nombre de produits, statut d'activité.
   4. Identification des clients à forte valeur et à risque (solde élevé + churn).
+  5. Export de résultats vers Excel et création de quelques graphiques.
 
 
 ## Principales requêtes SQL
