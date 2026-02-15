@@ -42,7 +42,7 @@ Exemples de requêtes :
   Compare les taux de churn entre France, Espagne et Allemagne pour identifier les marchés les plus à risque.
 
 - **Churn par tranche d'âge**  
-  Regroupe les clients par tranches (18–29, 30–39, 40–49, 50–59, 60+) et mesure le churn dans chaque segment. 
+  Regroupe les clients par tranches (18-29, 30-39, 40-49, 50-59, 60+) et mesure le churn dans chaque segment. 
 
 - **Churn selon l'activité (`IsActiveMember`)**  
   Montre l'impact du statut actif / inactif sur le churn.
@@ -56,8 +56,8 @@ Exemples de requêtes :
 - Le **taux de churn global** est d'environ 20 %, soit plus d'un client sur cinq qui quitte la banque.  
 - Le churn est **nettement plus élevé en Allemagne (32,4 %) qu'en France et en Espagne (≈16 %)**, ce qui en fait un marché prioritaire pour des actions de rétention. 
 - Les **clientes** présentent un taux de churn plus élevé (25,1 %) que les clients masculins (16,5 %), ce qui suggère des attentes ou des comportements différents selon le genre.  
-- Le churn augmente fortement avec l'âge : il dépasse **56 % chez les 50–59 ans** et reste supérieur à 27 % chez les clients de 60 ans et plus, contre moins de 11 % pour les moins de 40 ans.
-- Les clients ayant **un seul produit** ou au contraire **3–4 produits** sont bien plus à risque que ceux avec 2 produits, ce qui peut refléter des profils sous-équipés (basse valeur) ou sur-sollicités (insatisfaction).
+- Le churn augmente fortement avec l'âge : il dépasse **56 % chez les 50-59 ans** et reste supérieur à 27 % chez les clients de 60 ans et plus, contre moins de 11 % pour les moins de 40 ans.
+- Les clients ayant **un seul produit** ou au contraire **3-4 produits** sont bien plus à risque que ceux avec 2 produits, ce qui peut refléter des profils sous-équipés (basse valeur) ou sur-sollicités (insatisfaction).
 - Les **clients inactifs** (`IsActiveMember = 0`) churnent presque **deux fois plus** (26,9 %) que les clients actifs (14,3 %), ce qui en fait un levier majeur pour des campagnes de réactiva
 
 
@@ -66,6 +66,6 @@ Exemples de requêtes :
 - **Cibler en priorité l'Allemagne**, avec des actions spécifiques (offres dédiées, appels sortants, revue des conditions tarifaires) pour réduire un churn supérieur à 32 %.
 - Mettre en place des **campagnes de réactivation pour les clients inactifs**, par exemple via des emails personnalisés, rendez-vous conseillers ou avantages temporaires, afin de faire baisser un churn de 26,9 %.
 - Concevoir des offres adaptées aux **segments d'âge à risque (50 ans et plus)**, comme un accompagnement patrimonial ou des produits plus sécurisés, pour limiter un churn qui dépasse 50 % dans certaines tranches.
-- Analyser plus finement les clients avec **3–4 produits** pour comprendre pourquoi ils quittent massivement la banque, et ajuster la politique de cross-sell (éviter la sur‑sollicitation, améliorer la qualité de service).
+- Analyser plus finement les clients avec **3-4 produits** pour comprendre pourquoi ils quittent massivement la banque, et ajuster la politique de cross-sell (éviter la sur‑sollicitation, améliorer la qualité de service).
 - Mettre en place un **suivi dédié des clients à forte valeur** (gros soldes) qui montrent des signaux de churn, via des conseillers premium ou des offres de fidélisation sur mesure.
 
